@@ -1,6 +1,7 @@
 twidouga.net###footerlast
 twidouga.net###box
-twidouga.net##.item.item_w360
+@twidouga.net##.item.item_w360
+twidouga.net###item.item_w360
 google.*##div.g:not(:has(a[href]:not([href*=".online/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".im/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".click/"]))):has(a[href])
