@@ -8,3 +8,4 @@ google.*##div.g:not(:has(a[href]:not([href*=".pw/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".tk/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".xyz/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".fi/"]))):has(a[href])
+||brashstudiocrucial.com^
