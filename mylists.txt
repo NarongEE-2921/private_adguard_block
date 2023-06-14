@@ -1,7 +1,7 @@
 ||twidouga.net###footerlast
 ||twidouga.net###box
 ||twidouga.net###item.item_w360
-||twidouga.net^$brashstudiocrucial.com
+||brashstudiocrucial.com^$script,domain=twidouga.net
 google.*##div.g:not(:has(a[href]:not([href*=".online/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".im/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".click/"]))):has(a[href])
@@ -9,4 +9,3 @@ google.*##div.g:not(:has(a[href]:not([href*=".pw/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".tk/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".xyz/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".fi/"]))):has(a[href])
-||brashstudiocrucial.com^
