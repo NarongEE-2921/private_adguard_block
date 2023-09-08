@@ -1,7 +1,6 @@
 twidouga.net###footerlast
 twidouga.net###box
 twidouga.net###item.item_w360
-#brashstudiocrucial.com^$script,domain=twidouga.net
 twidouga.net###container > div.item.item_w360:nth-child(n)
 google.*##div.g:not(:has(a[href]:not([href*=".online/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".im/"]))):has(a[href])
@@ -11,3 +10,4 @@ google.*##div.g:not(:has(a[href]:not([href*=".tk/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".xyz/"]))):has(a[href])
 google.*##div.g:not(:has(a[href]:not([href*=".fi/"]))):has(a[href])
 slrclub.com##div[style*="height: 170px"]
+slrclub.com##div[style*="padding:5px"]
