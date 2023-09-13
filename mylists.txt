@@ -12,4 +12,5 @@ google.*##div.g:not(:has(a[href]:not([href*=".fi/"]))):has(a[href])
 slrclub.com##div[style*="height:170px"]
 slrclub.com##div[style*="height:120px"]
 slrclub.com##div[style*="padding:5px"]
+slrclub.com##tr:has(td.list_notice) // class 'list_notice'인 경우 tr 차단
 slrclub.com###notice
