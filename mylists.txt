@@ -14,5 +14,5 @@ slrclub.com##div[style*="170px"]
 slrclub.com##div[style*="height:120px"]
 slrclub.com##div[style*="padding:5px"]
 slrclub.com##tr:has(td.list_notice) // class 'list_notice'인 경우 tr 차단
-slrclub.com##.tit_nt
+slrclub.com##tit_nt
 slrclub.com###notice
