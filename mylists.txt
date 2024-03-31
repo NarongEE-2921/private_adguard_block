@@ -171,3 +171,6 @@ bbs.ruliweb.com###board_list > div.content_wrapper > div.board_main.theme_defaul
 bbs.ruliweb.com###board_list > div.content_wrapper > div.board_main.theme_default:nth-child(n) > table.board_list_table > tbody:last-child > tr.table_body.blocktarget:has-text(헤일로)
 bbs.ruliweb.com###board_list > div.content_wrapper > div.board_main.theme_default:nth-child(n) > table.board_list_table > tbody:last-child > tr.table_body.blocktarget:has-text(헬다이버스)
 bbs.ruliweb.com###board_list > div.content_wrapper > div.board_main.theme_default:nth-child(n) > table.board_list_table > tbody:last-child > tr.table_body.blocktarget:has-text(헬다이버즈)
+bbs.ruliweb.com###board_list > div.content_wrapper > div.board_main.theme_default:nth-child(n) > table.board_list_table > tbody:last-child > tr.table_body.blocktarget:has-text(업체핫딜)
+bbs.ruliweb.com###board_list > div.content_wrapper > div.board_main.theme_default:nth-child(n) > table.board_list_table > tbody:last-child > tr.table_body.blocktarget:has-text(버튜버)
+
